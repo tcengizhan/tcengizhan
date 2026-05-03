@@ -4,7 +4,9 @@ Hi, I'm Cengizhan Tavşanlı
 
 **Selcuk University**,
 
-Management Information Systems Graduation:2027 
+Management Information Systems 
+
+Graduation:2027 
 
 
 ## Skills
