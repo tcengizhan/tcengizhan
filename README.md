@@ -13,7 +13,7 @@ Graduation:2027
 
 **Languages**: Python, C#
 
-**Frameworks**: .Net Core
+**Frameworks**:.NET Core, ASP.NET MVC
 
 **Database**: MySQL
 
