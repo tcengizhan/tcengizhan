@@ -7,7 +7,6 @@ Hi, I'm Cengizhan Tavşanlı
 
 Graduation:2027 
 
-
 ## Uygulamalarım 
 
 **DeepFocus**
