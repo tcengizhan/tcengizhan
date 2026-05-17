@@ -1,16 +1,14 @@
 Hi, I'm Cengizhan Tavşanlı
 
 
-## Education
+## Eğitim
 
 **Selcuk University**, Management Information Systems 
 
 Graduation:2027 
 
----
 
 ## Uygulamalarım 
-
 
 **DeepFocus**
 
@@ -22,7 +20,6 @@ Bir Crusader ruhu taşıyan, vibe coding ile WPF .NET 8 üzerinde geliştirilmi�
 Kronometre, zamanlayıcı, günlük hedef takibi ve haftalık istatistiklerle zaman kontrolünü optimuma çıkar.
 
 
----
 
 ## Skills
 
