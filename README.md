@@ -1,4 +1,4 @@
-Hi, I'm Cengizhan Tavşanlı
+Merhaba, ben Cengizhan Tavşanlı
 
 
 ## Eğitim
