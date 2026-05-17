@@ -9,7 +9,7 @@ Graduation:2027
 
 ## Uygulamalarım 
 
-**DeepFocus**
+**DeepFocus - Verimlilik Uygulaması**
 
 [Github Repo](https://github.com/tcengizhan/DeepFocus)
 
