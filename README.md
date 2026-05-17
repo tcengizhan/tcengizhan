@@ -16,7 +16,7 @@ Graduation:2027
 [![DeepFocus](deepfocus_toplu.png)](https://github.com/tcengizhan/DeepFocus)
 
 Bir Crusader ruhu taşıyan, vibe coding ile WPF .NET 8 üzerinde geliştirilmiş masaüstü verimlilik uygulaması.
-Kronometre, zamanlayıcı, günlük hedef takibi ve haftalık istatistiklerle zaman kontrolünü optimuma çıkar.
+Kronometre, zamanlayıcı, günlük hedef takibi ve haftalık istatistiklerle zaman kontrolünü DeepFocus yardımıyla optimuma çıkar.
 
 
 
