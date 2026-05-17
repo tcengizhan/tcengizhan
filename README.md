@@ -17,3 +17,6 @@ Graduation:2027
 
 **Database**: MySQL
 
+
+## DeepFocus - Verimlilik Uygulaması
+
