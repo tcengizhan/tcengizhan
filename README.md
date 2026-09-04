@@ -1,13 +1,9 @@
 Merhaba, ben Cengizhan Tavşanlı
 
 
-## Eğitim
 
-**Selcuk University**, Management Information Systems 
 
-Graduation:2027 
-
-## Uygulamalarım 
+## Projeler
 
 **DeepFocus - Verimlilik Uygulaması**
 
